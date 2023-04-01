@@ -1,0 +1,19 @@
+# DEFINICIÓN DE LOS ENDPOINS O RUTAS URL PARA LOS SERVICIOS WEB
+
+# Mapeo de servicios web
+## HTTP		URL                     función del controlador
+GET	 /vendedor/:codigo 			controllers.CtrlProveedores.getVendedor(codigo: String)
+
+GET	 /usuario/:codigo   		controllers.CtrlUsuarios.getUsuario(codigo: String)
+PUT  /usuario/update/		   	controllers.CtrlUsuarios.updateUsuario
+
+GET	 /clientes/:vendedor   		controllers.CtrlClientes.getClientes(vendedor: String)
+
+GET	 /productos/   				controllers.CtrlProductos.getProductos()
+
+GET  /cabcc/:vendedor   		controllers.CtrlCabCC.getCabCC(vendedor: String)
+POST /cabcc/                    controllers.CtrlCabCC.salvarCabCC
+
+GET  /detcc/:vendedor   		controllers.CtrlDetCC.getDetCC(vendedor: String)
+GET	 /detcc/numtrans/:numtrans  controllers.CtrlDetCC.getByNumtrans(numtrans: Long)
+POST /detcc/                    controllers.CtrlDetCC.salvarDetCC
