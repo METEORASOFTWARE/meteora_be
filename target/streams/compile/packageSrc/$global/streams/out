@@ -1,0 +1,33 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\amerc\meteora_be\target\scala-2.11\meteora_be_2.11-1.21.164.mb12-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	controllers\CtrlDetCC.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\controllers\CtrlDetCC.scala[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\conf\application.conf[0m
+[0m[[0mdebug[0m] [0m	controllers\CtrlClientes.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\controllers\CtrlClientes.scala[0m
+[0m[[0mdebug[0m] [0m	controllers\CtrlUsuarios.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\controllers\CtrlUsuarios.scala[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\conf\routes[0m
+[0m[[0mdebug[0m] [0m	com\meteora\Proveedores.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\com\meteora\Proveedores.scala[0m
+[0m[[0mdebug[0m] [0m	controllers\CtrlCabCC.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\controllers\CtrlCabCC.scala[0m
+[0m[[0mdebug[0m] [0m	com\meteora\Productos.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\com\meteora\Productos.scala[0m
+[0m[[0mdebug[0m] [0m	com\meteora\Usuarios.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\com\meteora\Usuarios.scala[0m
+[0m[[0mdebug[0m] [0m	controllers\CtrlProveedores.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\controllers\CtrlProveedores.scala[0m
+[0m[[0mdebug[0m] [0m	logback.xml[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\conf\logback.xml[0m
+[0m[[0mdebug[0m] [0m	com\meteora\CabCC.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\com\meteora\CabCC.scala[0m
+[0m[[0mdebug[0m] [0m	com\meteora\Clientes.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\com\meteora\Clientes.scala[0m
+[0m[[0mdebug[0m] [0m	controllers\CtrlProductos.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\controllers\CtrlProductos.scala[0m
+[0m[[0mdebug[0m] [0m	com\meteora\DetCC.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\amerc\meteora_be\app\com\meteora\DetCC.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
