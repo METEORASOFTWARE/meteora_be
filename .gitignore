@@ -1,0 +1,31 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+# Sublime workspace files are user-specific
+*.sublime-workspace
+
+# Ignore Play! and Scala compiled files and user-specific files
+*.class
+*.log
+tmp/
+logs
+target
+.eclipse
+.idea
+.idea_modules
+.scala_dependencies
+.worksheet
+.classpath
+.project
+.settings
+.cache
+.history
+.lib/
+/RUNNING_PID
+/modules
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+*.sbtserver
+*.lock
